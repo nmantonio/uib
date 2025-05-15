@@ -1,4 +1,4 @@
-"country_name","regional_indicator","ladder_score","social_support","healthy_life","freedom_life_choices","generosity","corruption"
+"country_name","regional_indicator","happiness_score","social_support","healthy_life","freedom_life_choices","generosity","corruption"
 "Finland","Western Europe",7.741,1.572,0.695,0.859,0.142,0.546
 "Denmark","Western Europe",7.583,1.52,0.699,0.823,0.204,0.548
 "Iceland","Western Europe",7.525,1.617,0.718,0.819,0.258,0.182
